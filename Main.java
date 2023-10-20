@@ -3,6 +3,6 @@ class Main{
         System.out.print("Это добавлено в ветке dev");
         int a = 10;
         int b = 20;
-        System.out.println(a + b);
+        System.out.println(b + a);
     }
 }
