@@ -4,5 +4,7 @@ class Main{
         int a = 10;
         int b = 20;
         System.out.println(b + a);
+        System.out.print("Это добавлено в ветке main");
+        int c = 30;
     }
 }
